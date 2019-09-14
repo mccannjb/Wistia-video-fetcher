@@ -1,0 +1,6 @@
+#
+#Video information for use in the Wistia downloader script, download.py
+#
+Video_Title,vid_id
+1 - example video title,a1b2c3d4e5
+2 - other video title,f6g7h8i9j0
